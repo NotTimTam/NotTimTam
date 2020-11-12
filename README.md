@@ -1,7 +1,11 @@
 
 
 <h1 align='center'>
-  Hi there 👋 I'm Tim 👨‍💻
+  Whu! Who are you?
+</h1>
+
+<h1 align='center'>
+  I'm Tim...
 </h1>
 
 <p align='center'>
