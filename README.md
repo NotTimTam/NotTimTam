@@ -8,13 +8,13 @@
 
 
 
-<p align='center'>
+<-- <p align='center'>
   
   <a href="https://instagram.com/n0t_tim_tam">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
   </a>&nbsp;&nbsp;
   
-</p>
+</p> --/>
 
 <p align='center'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=NotTimTam&show_icons=true&count_private=true&theme=dark" width="350"></a>
