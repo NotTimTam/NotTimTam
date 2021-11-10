@@ -3,7 +3,7 @@
 </h1>
 
 <p align='center'>
-  A JS, Python, and C# developer from AZ, USA.
+  A MERN+MEAN stack front-end developer from AZ, USA.
 </p>
 
 <p align='center'>
