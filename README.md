@@ -4,6 +4,8 @@
 
 <p align='center'>
   A MERN+MEAN stack web developer from AZ, USA.
+  <br/>
+  CIW JavaScript Specialist & Microsoft Technology Associate Certified
 </p>
 
 <p align='center'>
