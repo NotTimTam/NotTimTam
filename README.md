@@ -5,7 +5,7 @@
 <p align='center'>
   A MERN+MEAN stack web developer from AZ, USA.
   <br/>
-  CIW JavaScript Specialist & Microsoft Technology Associate Certified
+  Certifications: **CIW JavaScript Specialist** + **Microsoft Technology Associate** + **OSHA General Industry**
 </p>
 
 <p align='center'>
