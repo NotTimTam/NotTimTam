@@ -1,4 +1,7 @@
-# <blockquote>You will own nothing, and you will be happy.</blockquote> - WEF
+<div style="display: flex; flex-direction: column; width: 100%;"> 
+<blockquote>You will own nothing, and you will be happy.</blockquote>
+  <p style="align-self: flex-end;">- WEF</p>
+</div>
 
 No thanks.
 
