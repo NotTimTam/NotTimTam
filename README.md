@@ -1,11 +1,4 @@
-<div style="display: flex; flex-direction: column; width: 100%;"> 
-<blockquote>You will own nothing, and you will be happy.</blockquote>
-  <p style="align-self: flex-end;">- WEF</p>
-</div>
-
-No thanks.
-
-**I'm working to create open-source, self-hostable libraries, APIs and resources.**
+##### **I'm working to create open-source, self-hostable libraries, APIs and resources, because if they aren't built on open-source tools, you don't own your projects..**
 
 <h1 align='center'>
   👋 Hiya, I'm Tim...
