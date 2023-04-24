@@ -1,4 +1,4 @@
-### **I'm working to create open-source, self-hostable libraries, APIs and resources, because if they aren't built on open-source tools, you don't own your projects..**
+### **I'm working to create open-source, self-hostable libraries, APIs and resources, because if you don't build your projects with open-source tools, you don't own them...**
 
 <h1 align='center'>
   👋 Hiya, I'm Tim...
