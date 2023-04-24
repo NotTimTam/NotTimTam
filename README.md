@@ -1,6 +1,4 @@
-<h1 align='center'>
-  <blockquote>You will own nothing, and you will be happy.</blockquote> - WEF
-</h1>
+# <blockquote>You will own nothing, and you will be happy.</blockquote> - WEF
 
 No thanks.
 
