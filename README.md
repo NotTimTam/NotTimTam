@@ -6,6 +6,7 @@
 
 <p align='center'>
   MERN + MEAN
+  <br/>
   Rendering + Game Engines
   <br/>
   Certifications: <b>CIW JavaScript Specialist</b> + <b>Microsoft Technology Associate</b>
