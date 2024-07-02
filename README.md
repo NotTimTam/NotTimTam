@@ -26,3 +26,5 @@ Here are some ideas to get you started:
 -->
 
 [Check out my gists!](https://gist.github.com/NotTimTam)
+
+The projects on my GitHub profile I work on in my own free time, meaning development slows down when my workload increases elsewhere.
