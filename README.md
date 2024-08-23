@@ -1,6 +1,6 @@
 ### **I'm working to create open-source, self-hostable APIs and resources, because if you don't build your projects with open-source tools, you don't own them...**
 
-Say **NO** to SaaS!
+Say **NO** to SaaS! Say **NO** to DMCA! Say **NO** to DRM!
 
 <p align='center'>
   MERN + MEAN
