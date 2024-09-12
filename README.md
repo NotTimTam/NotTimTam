@@ -48,4 +48,4 @@ Say **NO** to SaaS! Say **NO** to DMCA! Say **NO** to DRM!
 
 The projects on my GitHub profile I work on in my own free time, meaning development slows down when my workload increases elsewhere.
 
-[^1]: While I do return to my projects from time to time to ensure they are still up to date, if you come across one that hasn't been updated in a while, or is missing a feature you would like, I happily accept well-documented, quality pull requests and respond to submitted issues!
+[^1]: I periodically revisit my projects to keep them updated and make improvements. If you come across a project that hasn't been updated in a while or is missing a feature you’d like, please feel free to submit a well-documented, quality pull request. I also respond to detailed issue reports on my repositories.
