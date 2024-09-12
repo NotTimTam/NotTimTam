@@ -29,7 +29,7 @@ Say **NO** to SaaS! Say **NO** to DMCA! Say **NO** to DRM!
 
 ---
 
-### My Area of Expertise
+### My Areas of Expertise
 
 - MERN + MEAN development stacks
 - Next.js, SASS
