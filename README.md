@@ -1,32 +1,51 @@
-### **I'm working to create open-source, self-hostable APIs and resources, because if you don't build your projects with open-source tools, you don't own them...**
+# My Projects
+
+I maintain[^1] several open-source libraries and utilities that can help you supercharge your projects for free:
+
+### [file-converter](https://github.com/NotTimTam/file-converter)
+A headless, self-hostable file conversion express middleware. Use the [GUI tool](https://github.com/NotTimTam/file-converter-gui) to quickly deploy your own file conversion server.
+
+### [jtf](https://github.com/NotTimTam/jtf)
+JSON Table Format. A file-format for spreadsheets stored in JSON, bridging the gap between popular spreadsheet file formats and JavaScript. Complex libraries are generally required to parse .xlsx files and their equivalents for use in JavaScript. It is even harder to export content back in to those formats. Formats like .csv are far too rudimentary and do not support things like styling and formulas.
+
+### [flow.scss](https://github.com/NotTimTam/flow.scss)
+Tiny SCSS framework for flexbox based layout structuring. Extensible and customizable. Useful for quickly structuring small webapps without learning extensive, bloated libraries.
+
+### [console.js](https://github.com/NotTimTam/console.js)
+A tiny, dependency-less package for printing pretty, timestamped messages to the console. Does the heavy lifting of color-coding and categorizing for you.
+
+### [taskman.js](https://github.com/NotTimTam/taskman.js)
+Uses CRON-like job scheduling to manage application tasks and prevent parallel runs of any task.
+
+### [ascii.js](https://github.com/NotTimTam/ascii.js)
+A proof of concept that fully utilizes your browser's 2d canvas render context for game development using ASCII characters instead of graphics.
+
+---
+
+### A Little More About Me
+**I'm working to create open-source, self-hostable APIs and resources, because if you don't build your projects with open-source tools, you don't own them...**
 
 Say **NO** to SaaS! Say **NO** to DMCA! Say **NO** to DRM!
 
-<p align='center'>
-  MERN + MEAN
-  <br/>
-  Rendering + Game Engines
-  <br/>
-  Certifications: <b>CIW JavaScript Specialist</b> + <b>Microsoft Technology Associate</b>
-</p>
+---
+
+### My Area of Expertise
+
+- MERN + MEAN development stacks
+- Next.js, SASS
+- Python, C#
+- Certifications: <b>CIW JavaScript Specialist</b> + <b>Microsoft Technology Associate</b>
+
+---
 
 <p align='center'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=NotTimTam&show_icons=true&count_private=true&theme=dark" width="350"></a>
 </p>
 
-<!--
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
 
 [Check out my gists!](https://gist.github.com/NotTimTam)
 
 The projects on my GitHub profile I work on in my own free time, meaning development slows down when my workload increases elsewhere.
+
+[^1]: While I do return to my projects from time to time to ensure they are still up to date, if you come across one that hasn't been updated in a while, or is missing a feature you would like, I happily accept well-documented, quality pull requests and respond to submitted issues!
