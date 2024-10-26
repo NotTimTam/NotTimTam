@@ -2,6 +2,9 @@
 
 I maintain[^1] several open-source libraries and utilities that can help you supercharge your projects for free:
 
+### [ascii.js](https://github.com/NotTimTam/ascii.js)
+A proof of concept that fully utilizes your browser's 2d canvas render context for game development using ASCII characters instead of graphics.
+
 ### [file-converter](https://github.com/NotTimTam/file-converter)
 A headless, self-hostable file conversion express middleware. Use the [GUI tool](https://github.com/NotTimTam/file-converter-gui) to quickly deploy your own file conversion server.
 
@@ -16,9 +19,6 @@ A tiny, dependency-less package for printing pretty, timestamped messages to the
 
 ### [taskman.js](https://github.com/NotTimTam/taskman.js)
 Uses CRON-like job scheduling to manage application tasks and prevent parallel runs of any task.
-
-### [ascii.js](https://github.com/NotTimTam/ascii.js)
-A proof of concept that fully utilizes your browser's 2d canvas render context for game development using ASCII characters instead of graphics.
 
 ---
 
