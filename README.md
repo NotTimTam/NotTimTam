@@ -3,7 +3,7 @@
 I maintain[^1] several open-source libraries and utilities that can help you supercharge your projects for free:
 
 ### [ascii.js](https://github.com/NotTimTam/ascii.js)
-A proof of concept that fully utilizes your browser's 2d canvas render context for game development using ASCII characters instead of graphics.
+A text-based game/gui engine that utilizes web workers and efficient logic management to squeeze every last drop of performance out of 2D canvas ctx.
 
 ### [file-converter](https://github.com/NotTimTam/file-converter)
 A headless, self-hostable file conversion express middleware. Use the [GUI tool](https://github.com/NotTimTam/file-converter-gui) to quickly deploy your own file conversion server.
