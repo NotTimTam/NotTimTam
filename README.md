@@ -29,7 +29,7 @@ Say **NO** to SaaS! Say **NO** to DMCA! Say **NO** to DRM!
 
 #stopai
 
-Artificial intelligence (in any form as anything other than as a rudementary tool) has no place in a pro-human future.
+Artificial intelligence (in any form other than as a rudementary tool) has no place in a pro-human future.
 
 ---
 
