@@ -27,6 +27,10 @@ Uses CRON-like job scheduling to manage application tasks and prevent parallel r
 
 Say **NO** to SaaS! Say **NO** to DMCA! Say **NO** to DRM!
 
+#stopai
+
+Artificial intelligence (in any form as anything other than as a rudementary tool) has no place in a pro-human future.
+
 ---
 
 ### My Areas of Expertise
