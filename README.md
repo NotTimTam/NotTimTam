@@ -25,11 +25,7 @@ Uses CRON-like job scheduling to manage application tasks and prevent parallel r
 ### A Little More About Me
 **I'm working to create open-source, self-hostable APIs and resources, because if you don't build your projects with open-source tools, you don't own them...**
 
-Say **NO** to SaaS! Say **NO** to DMCA! Say **NO** to DRM!
-
-#stopai
-
-Artificial intelligence (in any form other than as a rudementary tool) has no place in a pro-human future.
+I'm a full stack developer by profession and an aspiring AI engineer in my free time.
 
 ---
 
