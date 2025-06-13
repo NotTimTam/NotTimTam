@@ -23,7 +23,7 @@ Uses CRON-like job scheduling to manage application tasks and prevent parallel r
 ---
 
 ### A Little More About Me
-**I'm working to create open-source, self-hostable APIs and resources, because if you don't build your projects with open-source tools, you don't own them...**
+**I'm working to create open-source tools, because if you build your projects on closed-source tech, you don't own them...**
 
 I'm a full stack developer by profession and an aspiring AI engineer in my free time.
 
